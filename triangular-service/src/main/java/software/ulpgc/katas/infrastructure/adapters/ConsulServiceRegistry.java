@@ -66,7 +66,7 @@ public class ConsulServiceRegistry implements ServiceRegistry {
     private String json() {
         return new Gson().toJson(Map.of(
                 "ID", id,
-                "Name", "fibonacci_service_v1",
+                "Name", "triangular_service_v1",
                 "Address", host(),
                 "Port", port,
                 "Check", Map.of(
