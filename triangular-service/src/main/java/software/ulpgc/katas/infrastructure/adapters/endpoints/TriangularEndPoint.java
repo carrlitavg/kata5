@@ -5,10 +5,10 @@ import io.javalin.http.Context;
 import io.javalin.http.Handler;
 import software.ulpgc.katas.architecture.model.TriangularSeries;
 
-public class FibonacciEndPoint implements Handler {
+public class TriangularEndPoint implements Handler {
     private final String id;
 
-    public FibonacciEndPoint(String id) {
+    public TriangularEndPoint(String id) {
         this.id = id;
     }
 
