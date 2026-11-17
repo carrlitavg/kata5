@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/fibonacci-service/pom.xml" />
         <option value="$PROJECT_DIR$/fibonacci-client/pom.xml" />
         <option value="$PROJECT_DIR$/triangular-service/pom.xml" />
+        <option value="$PROJECT_DIR$/triangular-client/pom.xml" />
       </list>
     </option>
   </component>
